@@ -18,7 +18,7 @@
     font-family: var(--font1);
 }
 header{
-    background-color: black;
+    background-color: rgb(8, 8, 8);
     color: white;
     text-align: center;
 }
@@ -75,12 +75,12 @@ text-shadow: 1px 1px 0px black;
 
 }
 section#img01{
-background-image: url('../imagens/background001.jpg');
+background-image: url('../estilo/image/background001.jpg');
 background-position: right center;
 background-size: cover;
 }
 section#img02{
-background-image: url('../imagens/background002.jpg');
+background-image: url('../estilo/image/background002.jpg');
 background-size: cover;
 }
 
